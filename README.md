@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Pedro Luis López Gaytán
+Software developer with 7+ years of experience building enterprise applications, ERPs, educational platforms, and mobile apps. Skilled in .NET (C#, MAUI, WinForms), TypeScript, React, Node.js, and SQL/SQLite. Passionate about crafting efficient and reliable solutions — from backend APIs to clean, modern UIs. I lead a small web and mobile development company focused on delivering solid, scalable, and maintainable products.
+
+📚 Author of a technical book on .NET MAUI, with a hands-on approach to building real-world apps.
+🎮 A big fan of The Legend of Zelda series.
+📍 Based in Mexico.
